@@ -1,3 +1,6 @@
+# Quincy's variant van de Visjes opdracht.
+
+
 # CMTTHE04 Week1 oefening 1
 
 - Opdracht
