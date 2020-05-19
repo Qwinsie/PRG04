@@ -5,7 +5,7 @@ body {
     margin:0px; padding:0px;
 }
 
-body * {
+game * {
     position: absolute;
     display: block;
     margin:0px; padding:0px;
@@ -39,8 +39,4 @@ background {
 pop {
     font-size: 25px;
     font-family: "Comic Sans MS", cursive, sans-serif;
-}
-
-script {
-    display: none;
 }
